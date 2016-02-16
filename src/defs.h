@@ -1,7 +1,7 @@
 /*
  *
  *
- * yasuna.h
+ * defs.h
  * 
  * Copyright (c) {year} {name}
  * This work is free. You can redistribute it and/or modify it under the
